@@ -1,0 +1,59 @@
+header{
+    width:100%;
+    text-align: center;
+    border-bottom:2px gray solid;
+}
+header img{
+    /* width:20%; */
+    /* margin:0 auto;  */
+    margin-top:15px;
+    height:50px;
+    padding-left:40px;
+}
+.login{
+    margin-top:40px;
+    margin-right:20px;
+    float:right;
+    color:blue;
+}
+.form_contents{
+    margin:0 auto;
+    clear:right;
+    width:50%;
+    margin-top:40px;
+    border:2px gray solid;
+    box-shadow: 4px 4px 4px gray;
+    padding:50px 50px 50px 50px;
+}
+.error_message{
+    background-color:lightcoral;
+    color:red;
+}
+.mail{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.password{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.login_check{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.loginbutton{
+    text-align:center;
+}
+.loginbutton .submit_button{
+    background-color: green;
+    color:white;
+}
+footer{
+    position:absolute;
+    width:100%;
+    bottom:0;
+    border:2px gray solid;
+    text-align: center;
+    line-height: 50px;
+    height:50px;
+}

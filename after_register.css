@@ -1,0 +1,28 @@
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.after_confirm{
+    width:50%;
+    border:2px gray solid;
+    border-radius: 10px;
+    margin:0 auto;
+    margin-top:50px;
+    margin-bottom:100px;
+    text-align: center;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+footer{
+    position:absolute;
+    width:100%;
+    left:0;
+    bottom:0;
+    padding-top:20px;
+    padding-bottom:20px;
+    border:2px gray solid;
+    text-align: center;
+    line-height: 50px;
+    height:50px;
+}       

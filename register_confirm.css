@@ -1,0 +1,50 @@
+body{
+ font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.confirm h1{
+    text-align: center;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    border-bottom:2px blue solid;
+}
+.confirm .first_confirm{
+    text-align: center;
+}
+.confirm{
+    margin:0 auto;  
+    width:50%;
+    border:2px gray solid;
+    padding:20px 20px 50px 50px;
+    border-radius:10px;
+}
+.confirm .button{
+    margin:0 auto;
+    text-align:center;
+}
+.confirm .button .button1{
+    background:gray;
+    color:white;
+    border-radius:5px;
+}
+form{
+    display: inline;
+    padding-bottom:50px;
+}
+.confirm .button .button2{
+    background:green;
+    color:white;
+    border-radius:5px;
+}
+footer{
+    position:absolute;
+    width:100%;
+    bottom:0;
+    border:2px gray solid;
+    text-align: center;
+    line-height: 50px;
+    height:50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
